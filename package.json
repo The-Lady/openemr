@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.1",
-    "@ttskch/select2-bootstrap4-theme": "1.4.0",
+    "@ttskch/select2-bootstrap4-theme": "1.5.2",
     "angular": "1.8.0",
     "angular-sanitize": "1.8.0",
     "angular-summernote": "0.8.1",
